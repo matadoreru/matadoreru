@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @matadoreru
-- 👀 I’m interested in C# && Kotlin && Java
 - 🌱 I’m currently learning Java && Spring && Jasper Reports
 - 📫 martinflorithortensi@gmail.com
 
