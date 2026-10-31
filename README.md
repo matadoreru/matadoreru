@@ -35,12 +35,4 @@
 | [**Poké Universe (Unity)**](https://github.com/matadoreru/PokeUniverse) | Multiplayer social minigames to play over Steam | C# · Unity · Netcode |
 | [**Raging Loop Text Tool**](https://github.com/matadoreru/RagingLoopESP) | Extracts, translates and repacks the text of the game *Raging Loop* for fan translations | Python |
 
-### 🐍 My activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matadoreru/matadoreru/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matadoreru/matadoreru/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/matadoreru/matadoreru/output/github-snake.svg" />
-</picture>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer" width="100%"/>
