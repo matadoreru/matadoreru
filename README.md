@@ -11,10 +11,9 @@
 ### 👾 About me
 
 - 📍 Based in Barcelona
-- ☕ I build APIs with **Java + Spring Boot** and real-time web apps with **TypeScript**
-- 🎮 I love making multiplayer games: Pokémon minigames, Inazuma Eleven managers…
-- 🌏 Learning Japanese (and building my own tools for it)
-- 🐧 Living on Linux: Fedora + niri, tweaking my desktop more than I should
+- 🎮 I love making different type of projects!
+- 🌏 Learning Japanese (and also building my own tools for it)
+- 🐧 Living on Linux: Fedora + niri, ricing my desktop more than I should...
 
 ### 🛠️ Tech stack
 
