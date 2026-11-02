@@ -31,8 +31,6 @@
 | [**Pokémon Universe**](https://github.com/matadoreru/PokemonUniverse) | Browser Pokémon minigames with private rooms: silhouettes, cries, auctions, drawing and social deduction | TypeScript |
 | [**Tabi**](https://github.com/matadoreru/tabi) | Plan your whole trip in one place: itinerary, map, bookings, budget and real-time collaboration (PWA) | Deno · PostgreSQL · Docker |
 | [**PomodoroAll**](https://github.com/matadoreru/PomodoroAll) | Collaborative Pomodoro with synced timers, chat and Spotify music | Node.js · Socket.io |
-| [**Incident Tracker**](https://github.com/matadoreru/incidencias) | REST API + frontend to log support incidents, with tests and Docker Compose | Java 17 · Spring Boot · PostgreSQL |
-| [**Poké Universe (Unity)**](https://github.com/matadoreru/PokeUniverse) | Multiplayer social minigames to play over Steam | C# · Unity · Netcode |
 | [**Raging Loop Text Tool**](https://github.com/matadoreru/RagingLoopESP) | Extracts, translates and repacks the text of the game *Raging Loop* for fan translations | Python |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer" width="100%"/>
